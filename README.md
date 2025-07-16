@@ -35,3 +35,14 @@ A computer vision-based football analytics pipeline using YOLO, KMeans clusterin
 - Custom training performed on YOLOv5/YOLOv8 format.
 
 ---
+
+## 🎥 Sample Video Files
+
+Due to GitHub's file size limitations, sample video files are not stored directly in this repository.
+
+However, i have provided google drive links to the input and the output videos below:
+
+- [Input Match Video From kaggle (Google Drive)](https://drive.google.com/file/d/1T494RwIvKLf-40zrFO5jv97uSbgN4AhH/view?usp=sharing)
+- [Output Video "Generated Video #v1 (Google Drive)](https://drive.google.com/file/d/1-vsEsRc_1zQaucXH7UX8YEFjMrsv0ddG/view?usp=sharing)
+- [Output Video "Generated Video #v2 (Google Drive)](https://drive.google.com/file/d/1FzeQ2Vr2R4VD6GBlxcOZ96KeWKiCjv29/view?usp=sharing)
+
